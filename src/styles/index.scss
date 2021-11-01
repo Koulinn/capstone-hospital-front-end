@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;700;800&family=Raleway:wght@300&display=swap");
+
+//=========== SASS VARIABLES ===========
+$PRIMARY-COLOR-0: #1b3e91;
+$PRIMARY-COLOR-1: #4f7fd1;
+$PRIMARY-COLOR-2: #21a8e1;
+$PRIMARY-COLOR-3: #0096d93d;
+
+html body {
+  font-family: "Mulish", sans-serif;
+  h1,
+  h2 {
+    font-family: "Raleway", sans-serif;
+  }
+}
